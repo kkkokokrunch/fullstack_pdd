@@ -1,0 +1,1909 @@
+[
+    {
+        "goods_id": 42841046809,
+        "goods_name": "100片可孚医用75%酒精棉片医用消毒棉球一次性酒精棉伤口消毒棉片",
+        "short_name": "100片可孚医用75%酒精棉片医用消毒棉球一次性酒精棉伤口消毒棉片",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-02-06/68c95878786e1a49683dedf6d9afbb5b.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-02-06/910769d03cdd9fb14feed585ba777e46.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 1690,
+            "customer_num": 2
+        },
+        "cnt": 58000,
+        "market_price": 6900,
+        "normal_price": 3990,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "51.0000",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.266",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.174",
+            "mkt": "1",
+            "byd_mixItemScore": "0.656",
+            "byd_idx": "0",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "51.0000",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"51.0000\",\"price\":\"29.90\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.656",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.656",
+            "byd_x2ir": "33",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.046",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "price_type": 1,
+            "group_price": 2990
+        },
+        "icon": {
+            "width": "156",
+            "id": "20001",
+            "url": "http://t12img.yangkeduo.com/social/pincard/1/share.png",
+            "height": "42"
+        },
+        "icon_list": [
+            {
+                "width": "90",
+                "id": "10014",
+                "url": "https://t13img.yangkeduo.com/promo/2019-11-19/brand.png",
+                "height": "48"
+            },
+            {
+                "width": "156",
+                "id": "20001",
+                "url": "http://t12img.yangkeduo.com/social/pincard/1/share.png",
+                "height": "42"
+            }
+        ],
+        "tag_list": [
+            {
+                "code": 36,
+                "text": "正品险",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&36"
+            },
+            {
+                "code": 3,
+                "text": "退货包运费",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&3"
+            }
+        ],
+        "sales_tip": "已拼5.8万件",
+        "link_url": "goods.html?goods_id=42841046809",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2020-02-06/18867624-b435-42ee-8acc-543b81ff2709.jpg",
+        "mall_name": "可孚健诺专卖店",
+        "mall_style": 0,
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/7fd6c5bb28b5fbbb7a90b880ec4768618353cb9f-1575250232?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/1a25294c673f9eaefb55790d173f82a6d228c3d3-1527926063?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 12364804,
+        "goods_name": "【48卷加量装赠毛巾】48卷/12卷竹浆本色卫生纸卷纸批发家用纸巾",
+        "short_name": "48卷/12卷天然竹浆",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-08-29/6015f5e3f176441ce0cc98b8a261a449.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-08-29/8870f6a8e1a50109056f9dd68c108dba.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 680,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 5600,
+        "normal_price": 1290,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.5010",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.193",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.232",
+            "mkt": "1",
+            "byd_mixItemScore": "0.985",
+            "byd_idx": "1",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.5010",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.5010\",\"price\":\"11.90\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.985",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.985",
+            "byd_x2ir": "3",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.045",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "price_type": 1,
+            "group_price": 1190
+        },
+        "tag_list": [
+            {
+                "text": "卷筒纸畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 3,
+                "text": "退货包运费",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&3"
+            },
+            {
+                "text": "满58减2",
+                "text_color": "#FF5706",
+                "type": 3,
+                "tag_track_info": "3"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=12364804",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-08-25/776609fd-1baf-4f0c-a8c0-cc1cd8eb0862.jpg",
+        "mall_name": "臻木官方旗舰店",
+        "mall_style": 1,
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/6c8035501d5699dfa3f5ec8066a6d0e733e81bcc-1548924736?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/8ec5b9fb79012a3cfcad2058957db22afed5848b-1543929148?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 7577228900,
+        "goods_name": "指纹打火机充电激光刻字高档礼物超薄男士个性防风创意搞怪点烟器",
+        "short_name": "指纹打火机充电激光刻字高档礼物超薄男士个性防风创意搞怪点烟器",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-04-13/026799353444d0f37f1777216be925a1.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-04-13/ea58ed9e37e4a23a8b39fde8292b24f0.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 601,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 2900,
+        "normal_price": 2800,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.3347",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.177",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.250",
+            "mkt": "1",
+            "byd_mixItemScore": "0.987",
+            "byd_idx": "2",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.3347",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.3347\",\"price\":\"11.80\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.987",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.987",
+            "byd_x2ir": "2",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.044",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "price_type": 1,
+            "group_price": 1180
+        },
+        "tag_list": [
+            {
+                "text": "打火机畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 3,
+                "text": "退货包运费",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&3"
+            },
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            }
+        ],
+        "sales_tip": "总售10万+件",
+        "link_url": "goods.html?goods_id=7577228900",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-04-13/f2beb551-1a32-4acd-8933-e7239f1b3bb4.jpg",
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/852d29c9dfe476acd0da33321dcb26f5dee33c0a-1581341911?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/231c3c09cf4628d07777561a253b121b25b55cd1-1531192404?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 4844995673,
+        "goods_name": "加厚抽绳垃圾袋自动收口垃圾袋加厚手提家用穿绳厨房塑料袋",
+        "short_name": "自动收口垃圾袋",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-11-29/335086ad46eb45178499c9bc6d5ffd10.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-01-04/0f394e3e8d97f46a1a9ec1f3e967acbe.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 298,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 8888,
+        "normal_price": 800,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.2515",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "useNewImg": "1",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.188",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.230",
+            "mkt": "1",
+            "byd_mixItemScore": "0.680",
+            "byd_idx": "3",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.2515",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.2515\",\"price\":\"6.90\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.680",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.680",
+            "byd_x2ir": "26",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.043",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "alterInfo": 2,
+            "price_type": 1,
+            "group_price": 690
+        },
+        "tag_list": [
+            {
+                "text": "垃圾袋畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 3,
+                "text": "退货包运费",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&3"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=4844995673&_oak_gallery=http%3A%2F%2Ft00img.yangkeduo.com%2Fgoods%2Fimages%2F2020-01-04%2F0f394e3e8d97f46a1a9ec1f3e967acbe.jpeg",
+        "hd_url": "http://t00img.yangkeduo.com/goods/images/2020-01-04/0f394e3e8d97f46a1a9ec1f3e967acbe.jpeg",
+        "mall_name": "羞涩花旗舰店",
+        "mall_style": 1,
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/404e388e6ac5534d93dc3ed3a4651888810ffbd6-1581597771?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/844a92d744c544115c91ae561b8ca82e6670b227-1581598150?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 8690316390,
+        "goods_name": "花花公子正品男士皮带软皮跑车自动扣腰带韩版潮休闲青年商务裤带",
+        "short_name": "花花公子皮带男自动扣",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-05-12/305fe627e3fdef08be84a4269df88e72.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-01-12/ae9de40e0e500b8d416b4362516fe35d.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 547,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 8800,
+        "normal_price": 1900,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.2016",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "useNewImg": "1",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.202",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.210",
+            "mkt": "1",
+            "byd_mixItemScore": "0.920",
+            "byd_idx": "4",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.2016",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.2016\",\"price\":\"6.60\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.920",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.920",
+            "byd_x2ir": "5",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.043",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "alterInfo": 2,
+            "price_type": 1,
+            "group_price": 660
+        },
+        "tag_list": [
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=8690316390&_oak_gallery=http%3A%2F%2Ft00img.yangkeduo.com%2Fgoods%2Fimages%2F2020-01-12%2Fae9de40e0e500b8d416b4362516fe35d.jpeg",
+        "hd_url": "http://t00img.yangkeduo.com/goods/images/2020-01-12/ae9de40e0e500b8d416b4362516fe35d.jpeg",
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/dfd4bac3e288f4a4aa01c4e15493d37366f1c14c-1580714413?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/3bf8bdd3fd8fded06e487403ae9dd5d2b109ac27-1551356294?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 6595170005,
+        "goods_name": "外出防护家用一次性PVC手套乳胶橡胶洗碗防水胶皮食品级手套加厚",
+        "short_name": "食品级一次性PVC手套",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-10-18/32b19410e70d6d55ac0e5b2696a5f9a7.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-10-18/c44a8bcf7bcfeb9926eabe27ff7e0483.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 1018,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 5800,
+        "normal_price": 1118,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.1683",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.183",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.216",
+            "mkt": "1",
+            "byd_mixItemScore": "0.606",
+            "byd_idx": "5",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.1683",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.1683\",\"price\":\"10.18\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.606",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.606",
+            "byd_x2ir": "43",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.040",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "tag_list": [
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=6595170005",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-09-15/a32cc036-1181-4d0d-bcc1-1a2c9babf5d6.jpg",
+        "mall_name": "小净士艾诺专卖店",
+        "mall_style": 0,
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/f613d3e0761db3ad6deb0e49be9728d783ce9abc-1581040266?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/839568d34e3631a5810ffe69da8306f46e585f59-1581129404?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 62384048607,
+        "goods_name": "指甲刀套装修脚刀套装指甲剪指甲钳锉刀粉刺针鼻毛剪掏耳勺皮推",
+        "short_name": "指甲钳套装指甲刀套装",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-11-19/7d4baf11cedcb8f1b29df97f91656920.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-11-19/22380ef4d8eddf9167c8084d268d95f2.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 457,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 3888,
+        "normal_price": 888,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.1446",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.182",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.207",
+            "mkt": "1",
+            "byd_mixItemScore": "0.834",
+            "byd_idx": "6",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.1446",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.1446\",\"price\":\"7.04\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.834",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.834",
+            "byd_x2ir": "8",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.038",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "price_type": 1,
+            "group_price": 704
+        },
+        "tag_list": [
+            {
+                "text": "指甲刀套装畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 3,
+                "text": "退货包运费",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&3"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=62384048607",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-11-19/2d7e7bb1-a75e-411a-9c17-478f341a0f4d.jpg",
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/cedffec413c1b00ffc611e9fcdda8bc4c08fff4c-1566717963?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/9b09b08e411966e7d64a987a10af0dcd40893ffd-1581597950?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 438869607,
+        "goods_name": "【超值led节能灯泡】家用灯泡螺口LED灯泡护眼无频闪节能灯球泡灯",
+        "short_name": "家用灯泡螺口LED灯泡",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-10-30/14c70242bffe69cdce3989949ef156a4.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-01-13/03d541e7c1add8a59039c08fff332a18.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 137,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 3690,
+        "normal_price": 400,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.1267",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "useNewImg": "1",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.169",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.214",
+            "mkt": "1",
+            "byd_mixItemScore": "0.708",
+            "byd_idx": "7",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.1267",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.1267\",\"price\":\"3.00\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.708",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.708",
+            "byd_x2ir": "21",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.036",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "alterInfo": 2,
+            "price_type": 1,
+            "group_price": 300
+        },
+        "tag_list": [
+            {
+                "text": "灯饰照明畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 3,
+                "text": "退货包运费",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&3"
+            },
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=438869607&_oak_gallery=http%3A%2F%2Ft00img.yangkeduo.com%2Fgoods%2Fimages%2F2020-01-13%2F03d541e7c1add8a59039c08fff332a18.jpeg",
+        "hd_url": "http://t00img.yangkeduo.com/goods/images/2020-01-13/03d541e7c1add8a59039c08fff332a18.jpeg",
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/851e8f51fa787eff91db82f9f1eda2a9c28b15ca-1544851251?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/c286c6116d625052d6315eedc8ef25f359e4c630-1536628401?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 5695797733,
+        "goods_name": "挂钩贴免打孔无痕强力胶粘厨房卫生间宿舍墙面壁上钩子门后连粘钩",
+        "short_name": "强力胶粘免打孔挂钩",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-29/365a57b89538da0beaa7ce8b69807e44.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-01-29/d85ca7b422774ac7094b6fead0e4b547.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 275,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 2100,
+        "normal_price": 700,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.1129",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.207",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.171",
+            "mkt": "1",
+            "byd_mixItemScore": "0.739",
+            "byd_idx": "8",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.1129",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.1129\",\"price\":\"4.20\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.739",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.739",
+            "byd_x2ir": "16",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.035",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "price_type": 1,
+            "group_price": 420
+        },
+        "tag_list": [
+            {
+                "text": "粘胶式挂钩畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=5695797733",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-01-17/dd51763d-e00a-48c4-8369-f26eb8d85d7c.jpg",
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t21img.yangkeduo.com/a/ee6caa0d9c9f1bf5c621dabd393d66d6bd5ec8cd-1509699805?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://pinduoduoimg.yangkeduo.com/avatar/default/7.png"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 86934529286,
+        "goods_name": "【72h发货】500ml/2.5L装75%医用级杀毒杀菌酒精 车家两用",
+        "short_name": "【72h发货】500ml/2.5L装75%医用级杀毒杀菌酒精 车家两用",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-02-07/383db42fa5180d92c1da785814477ee3.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-02-11/a08f951e52cdb413ffaac1fe752bc490.jpeg",
+        "is_app": 0,
+        "event_type": 2,
+        "group": {
+            "price": 1590,
+            "customer_num": 2
+        },
+        "cnt": 71000,
+        "market_price": 12900,
+        "normal_price": 2900,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.1018",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "useNewImg": "1",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.189",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.177",
+            "mkt": "1",
+            "byd_mixItemScore": "0.398",
+            "byd_idx": "9",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.1018",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.1018\",\"price\":\"24.90\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.398",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.398",
+            "byd_x2ir": "134",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.033",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "alterInfo": 2,
+            "price_type": 1,
+            "group_price": 2490,
+            "inSeckill": true
+        },
+        "tag_list": [
+            {
+                "code": 3,
+                "text": "退货包运费",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&3"
+            },
+            {
+                "code": 0,
+                "text": "限时秒杀",
+                "text_color": "#FF5706",
+                "type": 17,
+                "tag_track_info": "1001&0"
+            }
+        ],
+        "sales_tip": "已拼7.1万件",
+        "link_url": "goods.html?goods_id=86934529286&_oak_gallery=http%3A%2F%2Ft00img.yangkeduo.com%2Fgoods%2Fimages%2F2020-02-11%2Fa08f951e52cdb413ffaac1fe752bc490.jpeg",
+        "hd_url": "http://t00img.yangkeduo.com/goods/images/2020-02-11/a08f951e52cdb413ffaac1fe752bc490.jpeg",
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/33c1ec2b81e88a78f9be7b3c7f88193eaa6dfe62-1531111537?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 12729765832,
+        "goods_name": "强磁吸数据线苹果安卓闪充电线器typec华为vivoppo小米手机通用6X",
+        "short_name": "CANOPAI磁吸数据线",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-06-30/a2fd2a06d1c8e019cffd24d59b8dda04.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-06-30/086d9dd8ca42d3b80c4d9c38c1f550f7.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 690,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 3990,
+        "normal_price": 2990,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.0927",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.138",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.237",
+            "mkt": "1",
+            "byd_mixItemScore": "0.616",
+            "byd_idx": "10",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.0927",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.0927\",\"price\":\"6.90\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.616",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.616",
+            "byd_x2ir": "40",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.033",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "tag_list": [
+            {
+                "text": "充电配件畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 18,
+                "text": "只换不修",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&18"
+            },
+            {
+                "code": 8,
+                "text": "电器城",
+                "text_color": "#FF5706",
+                "type": 4,
+                "tag_track_info": "1004&8"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=12729765832",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-06-30/2fd469db-6d21-4452-822b-468838db15da.jpg",
+        "mall_name": "CANOPAI官方旗舰店",
+        "mall_style": 1,
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/1e4f41687ec4741f73127020bebfd89719e10ad5-1576231580?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://pinduoduoimg.yangkeduo.com/avatar/default/1.png"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 984013131,
+        "goods_name": "心逸40包/24包本色抽纸面巾纸纸抽卫生纸巾家用餐巾纸家庭装整箱",
+        "short_name": "40包/24包本色抽纸",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-11-29/8f9e0e8578e0b1552f69e8b2dc49e73e.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-11-29/c9eb108d6c4e9df5714fd939123990e1.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 1990,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 9900,
+        "normal_price": 2500,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.0852",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "useNewImg": "1",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.190",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.210",
+            "mkt": "1",
+            "byd_mixItemScore": "0.934",
+            "byd_idx": "11",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.0852",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.0852\",\"price\":\"19.90\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.934",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.934",
+            "byd_x2ir": "4",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.040",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "alterInfo": 2
+        },
+        "tag_list": [
+            {
+                "text": "抽纸畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=984013131&_oak_gallery=http%3A%2F%2Ft00img.yangkeduo.com%2Fgoods%2Fimages%2F2019-11-29%2Fc9eb108d6c4e9df5714fd939123990e1.jpeg",
+        "hd_url": "http://t00img.yangkeduo.com/goods/images/2019-11-29/c9eb108d6c4e9df5714fd939123990e1.jpeg",
+        "mall_name": "香约纸品专营店",
+        "mall_style": 0,
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/d4d6b380c5f0ef380737c9ef7ec04c5477c7bd90-1581596066?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/bb4be54ce0781b13be028ba546a619509bd8e459-1545661146?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 4127031194,
+        "goods_name": "汽车临时停车防滑号码牌隐藏车载挪车夜光电话号码牌内饰用品摆件",
+        "short_name": "ABS夜光停车号码牌",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2018-11-12/48fc8001eafef2c6e788cbb86014087e.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-02-10/908b03af8ca68d26567aaa952e0e8500.jpeg",
+        "is_app": 0,
+        "event_type": 2,
+        "group": {
+            "price": 250,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 3800,
+        "normal_price": 880,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.0788",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "useNewImg": "1",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.169",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.192",
+            "mkt": "1",
+            "byd_mixItemScore": "0.771",
+            "byd_idx": "12",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.0788",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.0788\",\"price\":\"5.90\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.771",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.771",
+            "byd_x2ir": "12",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.032",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "alterInfo": 2,
+            "price_type": 1,
+            "group_price": 590,
+            "inSeckill": true
+        },
+        "tag_list": [
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            },
+            {
+                "code": 0,
+                "text": "限时秒杀",
+                "text_color": "#FF5706",
+                "type": 17,
+                "tag_track_info": "1001&0"
+            }
+        ],
+        "sales_tip": "总售10万+件",
+        "link_url": "goods.html?goods_id=4127031194&_oak_gallery=http%3A%2F%2Ft00img.yangkeduo.com%2Fgoods%2Fimages%2F2020-02-10%2F908b03af8ca68d26567aaa952e0e8500.jpeg",
+        "hd_url": "http://t00img.yangkeduo.com/goods/images/2020-02-10/908b03af8ca68d26567aaa952e0e8500.jpeg",
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/270346f4aea12353e73fd34576deddfed5f327ae-1575389810?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/01f95f9b4f976db1e5d2341049ac7cddb458269f-1581596801?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 84785612889,
+        "goods_name": "【高浓缩】洗衣机槽清洗剂泡腾片家用滚筒式杀菌消毒除垢污渍神器",
+        "short_name": "洗衣机槽清洗剂",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-01-10/333fb5d58e109c92fc9aa1724e17bbce.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-01-10/28ee6c5d723870e613970769cb370096.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 790,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 2500,
+        "normal_price": 900,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.0733",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.157",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.199",
+            "mkt": "1",
+            "byd_mixItemScore": "0.551",
+            "byd_idx": "13",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.0733",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.0733\",\"price\":\"7.90\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.551",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.551",
+            "byd_x2ir": "60",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.031",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "tag_list": [
+            {
+                "text": "家电清洁畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=84785612889",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2020-01-10/826a8996-22c4-4ebe-9edf-32f38b1b469f.jpg",
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/c16a293bd6313d2991802d8976f7e89351cc61ee-1576323737?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t21img.yangkeduo.com/a/d6b92946a588c7f0fd773df532e78a2fec7165b1-1505697740?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 6891352110,
+        "goods_name": "10-50颗家庭装网红洗衣凝珠洗衣液香味持久留香洗衣服凝珠香水型",
+        "short_name": "洗衣凝珠10-50颗袋装",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-11-25/0a694817611093713a5075c69daa9618.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-11-25/3b112fa84f70008c2a3abbe99db87ec1.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 790,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 3900,
+        "normal_price": 990,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.0685",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.158",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.192",
+            "mkt": "1",
+            "byd_mixItemScore": "0.180",
+            "byd_idx": "14",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.0685",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.0685\",\"price\":\"7.90\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.180",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.180",
+            "byd_x2ir": "353",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.030",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "tag_list": [
+            {
+                "text": "衣物清洁畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 3,
+                "text": "退货包运费",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&3"
+            },
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=6891352110",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-11-23/529c70e0-6abc-4fa3-ab0d-937380026beb.jpg",
+        "mall_name": "艾蕲季家居生活官方旗舰店",
+        "mall_style": 1,
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/1db04fdfca3d99c8080ec0a6b43761c508d17358-1581597516?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/7fc1b79a99792de81e9bb5fafbf555b8aaca7d62-1540360016?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 68019866292,
+        "goods_name": "当天发货!红薯沙地红蜜薯,正宗西瓜红红土沙地农家地瓜现挖现卖",
+        "short_name": "当天发货!红薯沙地红蜜薯,正宗西瓜红红土沙地农家地瓜现挖现卖",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-01-29/c73fc32384c22f8e9855e15f2638d5ba.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2020-01-29/31b9a15b95ba822f8c7a51de526b3f59.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 1097,
+            "customer_num": 2
+        },
+        "cnt": 45000,
+        "market_price": 4880,
+        "normal_price": 1780,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.0644",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.149",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.203",
+            "mkt": "1",
+            "byd_mixItemScore": "0.349",
+            "byd_idx": "15",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.0644",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.0644\",\"price\":\"11.80\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.349",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.349",
+            "byd_x2ir": "165",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.030",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "price_type": 1,
+            "group_price": 1180
+        },
+        "tag_list": [
+            {
+                "text": "番薯畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            }
+        ],
+        "sales_tip": "已拼4.5万件",
+        "link_url": "goods.html?goods_id=68019866292",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2020-01-29/5a0d7ac9-df17-4283-a96c-638ec7dfeefe.jpg",
+        "mall_name": "蔬果人家旗舰店",
+        "mall_style": 1,
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/2091b834902dab720bd3bbff9c5d0157b456f4a4-1575977258?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://pinduoduoimg.yangkeduo.com/avatar/default/6.png"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 65998290571,
+        "goods_name": "洗脸束发带女韩版网红化妆敷面膜发箍甜美可爱头饰简约发捆箍发饰",
+        "short_name": "洗脸束发带韩版女",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-12-17/cf556fdf6c825b923991dd36ed1712fb.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-12-17/5737768e9e82390cf0d4fecae01052ac.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 468,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 2898,
+        "normal_price": 588,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.0607",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.084",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.405",
+            "mkt": "1",
+            "byd_mixItemScore": "0.586",
+            "byd_idx": "16",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.0607",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.0607\",\"price\":\"4.68\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.586",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.586",
+            "byd_x2ir": "50",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.034",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "tag_list": [
+            {
+                "text": "束发带畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            },
+            {
+                "text": "满30减2",
+                "text_color": "#FF5706",
+                "type": 3,
+                "tag_track_info": "3"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=65998290571",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-12-17/e882ce80-bbf2-444e-82d3-43c18fa7b3df.jpg",
+        "mall_name": "季诺家居生活官方旗舰店",
+        "mall_style": 1,
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/8ad5718df6ec88c8c36868d777e47d54cac23ce1-1545549788?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/bbf3eb58d681c9f970c24b7f8bec060993058542-1581425103?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 24791114049,
+        "goods_name": "比电焊强力胶水防水油性补胎通用万能胶水粘塑料陶瓷玻璃焊接胶水",
+        "short_name": "强力胶水万能焊接胶水",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-07-17/d960fcd54df3cf612fa2ba10de2880ad.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-07-17/844c01ad6da6148ae637956a540766fa.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 245,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 3900,
+        "normal_price": 398,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.0574",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.201",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.149",
+            "mkt": "1",
+            "byd_mixItemScore": "0.541",
+            "byd_idx": "17",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.0574",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.0574\",\"price\":\"2.48\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.541",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.541",
+            "byd_x2ir": "62",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.030",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "price_type": 1,
+            "group_price": 248
+        },
+        "tag_list": [
+            {
+                "code": 3,
+                "text": "退货包运费",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&3"
+            },
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=24791114049",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-07-17/244ffbb4-97ad-4fff-9f1e-8b4df6dc67a0.jpg",
+        "mall_name": "引玉文具旗舰店",
+        "mall_style": 1,
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/fa4f36f488821cced01bffb073bbe42fb191d8a9-1575705356?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/ed09f3dd6cdffa6af78887bebcc4117d30e82c64-1578197887?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 25377657222,
+        "goods_name": "日本一体防疲劳老花镜男女高清超轻时尚便携老人老光老化眼镜花镜",
+        "short_name": "建议买2付以上优先发",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-07-18/b3f5071a295291564f6eddf4ba846fb7.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-07-18/bb78426b5e70fb7c3d5ce35775304a03.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 472,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 2900,
+        "normal_price": 690,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.0545",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.163",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.180",
+            "mkt": "1",
+            "byd_mixItemScore": "0.616",
+            "byd_idx": "18",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.0545",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.0545\",\"price\":\"5.90\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.616",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.616",
+            "byd_x2ir": "41",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.029",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "price_type": 1,
+            "group_price": 590
+        },
+        "tag_list": [
+            {
+                "text": "老花镜畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=25377657222",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-07-18/3fcddb54-cc24-45df-8e84-0571ab24013f.jpg",
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t21img.yangkeduo.com/a/e1af86ad817db643456ab39988e335609b8fca48-1522822952?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/7b40f2506e56db0108dd74821aa05a966707fe51-1575790300?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    },
+    {
+        "goods_id": 33942735460,
+        "goods_name": "修眉刀片女专用锋利刮眉刀套装化妆师专用初学者刮眉修眉画眉神器",
+        "short_name": "初学者修眉画眉套装",
+        "image_url": "",
+        "thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-10-22/d0f8b10f39b623c78320643eb3d64970.jpeg",
+        "hd_thumb_url": "http://t00img.yangkeduo.com/goods/images/2019-10-22/da284b081d3b2c596fba4d6a97b2864f.jpeg",
+        "is_app": 0,
+        "event_type": 0,
+        "group": {
+            "price": 174,
+            "customer_num": 2
+        },
+        "cnt": 100000,
+        "market_price": 5990,
+        "normal_price": 369,
+        "p_rec": {
+            "byd_tir": "1",
+            "fScore": "50.0519",
+            "ctvr": "0.0000_0.0000",
+            "list_id": "new_homepage__xXsxaTScCN",
+            "byd_l": "level4",
+            "bk": "13",
+            "rankPolicy": "0",
+            "byd_cvrs": "0.182",
+            "pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_tins": "1.000",
+            "byd_ctrs": "0.159",
+            "mkt": "1",
+            "byd_mixItemScore": "0.331",
+            "byd_idx": "19",
+            "ver": "2.2",
+            "byd_pddid_bkt": "18",
+            "set": "sh2",
+            "triIds": "1",
+            "mScore": "50.0519",
+            "conMapJson": "{\"trinum\":1,\"mtlv\":\"ONL_mkt-level_rt\",\"mscore\":\"50.0519\",\"price\":\"2.69\",\"cvrs\":\"0.0000\",\"ctrs\":\"0.0000\"}",
+            "req_t": "1581598358",
+            "org": "rec",
+            "g": "0-base",
+            "byd_ms": "0.331",
+            "m": "byd_OFF_hot",
+            "byd_x2is": "0.331",
+            "byd_x2ir": "175",
+            "byd_pv_id": "afb63725-f89b-4de8-829a-771b2ea70a13",
+            "byd_ab_type": "total",
+            "byd_tios": "1.000",
+            "app_name": "new_homepage",
+            "t": "1",
+            "vids": "",
+            "byd_x": "0",
+            "time": "1581598358950",
+            "byd_s": "0.029",
+            "request_id": "1d9f8dc6-3020-42e8-9682-b897db249378",
+            "weightCoef": "1.0",
+            "byd_t": "hot",
+            "ts": "1581598359051"
+        },
+        "is_assist": 0,
+        "assist_count": 0,
+        "ext": {
+            "price_type": 1,
+            "group_price": 269
+        },
+        "tag_list": [
+            {
+                "text": "修眉刀畅销前十",
+                "text_color": "#FF5706",
+                "type": 19,
+                "tag_track_info": "19"
+            },
+            {
+                "code": 24,
+                "text": "极速退款",
+                "text_color": "#FF5706",
+                "type": 6,
+                "tag_track_info": "1005&24"
+            }
+        ],
+        "sales_tip": "已拼10万+件",
+        "link_url": "goods.html?goods_id=33942735460",
+        "hd_url": "https://t00img.yangkeduo.com/goods/images/2019-10-22/9ad8e1b8-0327-47d7-98e7-98debbff0a63.jpg",
+        "near_group": {
+            "list": [
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/fde08ebef110e940cb4ea1ae0d9f581a00ec5891-1577809716?imageMogr2/thumbnail/100x"
+                },
+                {
+                    "avatar": "https://t20img.yangkeduo.com/a/6c116c77516799cbba9585174f8b9c96d71cdbd0-1580103245?imageMogr2/thumbnail/100x"
+                }
+            ]
+        }
+    }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "1642994",
+  "name": "shopping",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13082660",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "13061042",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "12944384",
+      "name": "购物车",
+      "font_class": "che",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
