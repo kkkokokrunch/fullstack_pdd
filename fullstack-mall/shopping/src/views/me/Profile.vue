@@ -2,7 +2,7 @@
 <div>
   <!-- <div class="login"></div> -->
   <!-- <select-login></select-login> -->
-  <div class="me" v-if="userInfo.id">
+  <div class="me">
       <me-header></me-header>
       <me-order></me-order>
       <grey-line></grey-line>
@@ -11,22 +11,12 @@
       <me-func></me-func>
       <grey-line></grey-line>
   </div>
-  <select-login v-else></select-login>
-   <!-- <div class="me">
-      <me-header></me-header>
-      <me-order></me-order>
-      <grey-line></grey-line>
-      <me-tips></me-tips>
-      <grey-line></grey-line>
-      <me-func></me-func>
-      <grey-line></grey-line>
-  </div> -->
 </div>
  
 </template>
 
 <script>
-import SelectLogin from '../login/SelectLogin'
+// import SelectLogin from '../login/SelectLogin'
 import MeHeader from './meChildren/MeHeader'
 import MeOrder from './meChildren/MeOrder'
 import greyLine from '../../components/greyLine'
@@ -34,9 +24,9 @@ import MeTips from './meChildren/MeTips'
 import MeFunc from './meChildren/MeFunc'
 import {mapState} from 'vuex'
 export default {
-    name:'Me',
+    name:'Profile',
     components: {
-      SelectLogin,
+    //   SelectLogin,
       MeHeader,
       MeOrder,
       greyLine,
@@ -44,7 +34,7 @@ export default {
       MeFunc
     },
     computed: {
-      ...mapState(['userInfo'])
+    //   ...mapState(['userInfo'])
     },
     methods: {
       

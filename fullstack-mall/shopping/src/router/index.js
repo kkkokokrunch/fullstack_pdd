@@ -3,7 +3,7 @@ import VueRouter from 'vue-router'
 const Home = () =>import ('../views/home/Home.vue')
 const Recommend = () =>import ('../views/recommend/Recommend')
 const Category = () =>import ('../views/category/Category.vue')
-const Chat = () =>import ('../views/chat/Chat.vue')
+const Cart = () =>import ('../views/cart/Cart.vue')
 const Me = () =>import ('../views/me/Me.vue')
 const Hot = () =>import ('../views/home/homeChild/Hot.vue')
 const Food = () =>import ('../views/home/homeChild/Food.vue')
@@ -12,6 +12,7 @@ const WomenCloth = () =>import ('../views/home/homeChild/WomenCloth.vue')
 const ShoeBag = () =>import ('../views/home/homeChild/ShoeBag.vue')
 const BaseInfo = () =>import ('../views/baseInfo/BaseInfo.vue')
 const Login = () =>import ('../views/login/Login.vue')
+const Profile = () =>import ('../views/me/Profile.vue')
 Vue.use(VueRouter)
 
 const routes = [
@@ -59,19 +60,24 @@ const routes = [
   meta: {showTabBar:true}
 },
 {
-  path: '/chat',
-  component:Chat,
+  path: '/cart',
+  component:Cart,
   meta: {showTabBar:true}
 },
 {
   path: '/me',
   component: Me,
-  // meta: {showTabBar:true}
+  meta: {showTabBar:true}
 },
 {
   path:'/baseinfo',
   component:BaseInfo
 },
+// {
+//   path:'/profile',
+//   component:Profile,
+//   meta: {showTabBar:true}
+// },
 {
   path:'/login',
   component:Login

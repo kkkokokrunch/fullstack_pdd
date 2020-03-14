@@ -18,3 +18,9 @@ export function codeLogin(phone,code) {
         },
     })
 }
+
+// export function getUserInfo() {
+//     return request({
+//         url:"/users/user_info"
+//     })
+// }

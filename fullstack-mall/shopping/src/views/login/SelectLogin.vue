@@ -1,15 +1,15 @@
 <template>
   <div class="select-login">
-		<img class="logo" src="../../assets/images/pin_logo.png" alt="">
-		<router-link to="/login" tag="button">
-			<i class="iconfont icon-shouji"></i>
-			手机登录
-		</router-link>
-		<div class="safe">
-			<span>平台用户信息安全由</span>
-			<img src="../../assets/images/brand_picc_new.png" alt="">
-			<span>承保</span>
-		</div>
+	<img class="logo" src="../../assets/images/pin_logo.png" alt="">
+	<router-link to="/login" tag="button">
+		<i class="iconfont icon-shouji"></i>
+		手机登录
+	</router-link>
+	<div class="safe">
+		<span>平台用户信息安全由</span>
+		<img src="../../assets/images/brand_picc_new.png" alt="">
+		<span>承保</span>
+	</div>
 		
   </div>
 </template>
@@ -27,6 +27,11 @@ export default {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	position: relative;
+	left:0;
+    top:0;
+    z-index:1000;
+	background-color: #fff;
 }
 .select-login .logo {
 	width: 140px;

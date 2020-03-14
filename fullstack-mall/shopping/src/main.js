@@ -8,7 +8,7 @@ import LyTab from 'ly-tab'
 import './assets/iconfont/iconfont.css'
 
 Vue.use(LyTab)
-Vue.use(Vant);
+Vue.use(Vant)
 Vue.config.productionTip = false
 
 new Vue({

@@ -12,7 +12,11 @@ import MainTabBar from './components/mainTabbar/mainTabbar'
 export default {
   components: {
     MainTabBar
-  }
+  },
+  // created() {
+  //   this.$store.dispatch('getUserInfo')
+  // }
+    
 }
 </script>
 <style>

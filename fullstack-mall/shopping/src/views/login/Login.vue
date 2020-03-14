@@ -28,6 +28,7 @@
 
 <script>
 import {getCheckCode,codeLogin} from '../../network/user'
+import {mapActions} from 'vuex'
 export default {
     name:'Login',
     data() {
@@ -44,6 +45,7 @@ export default {
       }
     },
     methods: {
+      ...mapActions(['syncUserInfo']),
       getCheckCode(){
         //开启倒计时
         if(this.phoneRight) {
@@ -80,23 +82,31 @@ export default {
         }
 
         codeLogin(this.phoneNum,this.checkNum).then(res => {
-          console.log(res)
-          console.log(res.success_code)
+          // console.log(res)
+          // console.log(res.success_code)
           // success_code
           if(res.success_code === 200) {
             this.userInfo = res.message
-            alert('success')
+            console.log(this.userInfo)
+            // this.$router.replace('/profile')
+            alert('success登陆成功')
+            window.sessionStorage.setItem('user',this.userInfo.user_name)
           }else {
             this.userInfo = {
               message:'登陆失败，手机或验证码不正确'
             }
-            alert(this.userInfo.message)
+            // alert(this.userInfo.message)
           }
+          if(!this.userInfo.id) {
+            alert(this.userInfo.message)
+          }else {
+            // console.log(this.userInfo)
+            this.syncUserInfo(this.userInfo)
+            console.log(this.$store.state.userInfo)
+            this.$router.back()
+          }
+         
         })
-
-        // if(!this.userInfo.id) {
-        //   alert(this.userInfo.message)
-        // }
         
       }
     },

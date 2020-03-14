@@ -7,7 +7,7 @@
 			<span>￥{{recommendItem.price / 100}}</span>
 			<span>{{recommendItem.sales_tip}}</span>
 		</div>
-		<i class="iconfont icon-che"></i>
+		<i class="iconfont icon-che" @click="addToCart"></i>
 	</div>
 </template>
 
@@ -23,6 +23,27 @@
 		methods: {
 			imageLoad() {
 				this.$emit('itemImageLoad', '子组件')
+			},
+			addToCart() {
+				// this.$toast({
+				// 	type: "success",
+				// 	message: `成功加入购物车`,
+				// 	forbidClick: true,
+				// 	duration: 1000
+				// });
+				 //1.获取商品信息
+            const product = {}
+            product.image = this.recommendItem.thumb_url
+            product.title = this.recommendItem.short_name
+            product.price = this.recommendItem.price / 100
+            product.id = this.recommendItem.goods_id
+
+			// console.log(product)
+            //2.将商品加到购物车
+            this.$store.dispatch('addCart',product).then(res => {
+                console.log(res)
+            })
+            
 			}
 		},
 	}

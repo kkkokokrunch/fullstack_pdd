@@ -50,6 +50,7 @@ router.post('/login',async function(ctx,next) {
                 // ctx.body = res.insertId
                 // console.log(res.insertId)
                 ctx.session.userId = res.insertId
+                // console.log(ctx.session.userId)
                 await userService.searchNewUser(res.insertId).then(async (res)=> {
                     res = JSON.parse(JSON.stringify(res))
                     ctx.body = {
@@ -68,4 +69,30 @@ router.post('/login',async function(ctx,next) {
     
 
 })
+
+// router.get('/user_info',async(ctx,next) => {
+//     let userId = ctx.session.userId
+//     await userService.searchSessionUser(userId).then(async (res)=> {
+        
+     
+//             res = JSON.parse(JSON.stringify(res))
+//             if(!res[0]) {
+//                 delete ctx.session.userId
+//                 ctx.body = {
+//                     err_code:1,
+//                     message:'请先登录'
+//                 }
+//             }else {
+//                 console.log(res)
+//                 ctx.body = {
+//                     success_code:200,
+//                     message: {
+//                         id:res[0].id,
+//                         user_name:res[0].user_name,
+//                         user_phone:res[0].user_phone
+//                     }
+//                 }
+//             }
+//     })
+//   })
 module.exports = router

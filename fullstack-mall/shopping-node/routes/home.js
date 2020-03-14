@@ -16,7 +16,7 @@ router.post('/test', async(ctx, next) =>{
   await userService.insertUser([user.name,user.password])
   .then((res) => {
     // console.log(ctx)
-          ctx.body = '数据插入成功' 
+    ctx.body = '数据插入成功' 
   })
 })
 

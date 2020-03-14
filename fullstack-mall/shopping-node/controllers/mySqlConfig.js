@@ -114,6 +114,10 @@ var config = require('./defaultConfig');
             return allServices.query(_sql,id);
         }
         
+        let searchSessionUser = function(id) {
+            let _sql = 'SELECT * FROM shopping_user WHERE id = "'+ id +'" LIMIT 1'
+            return allServices.query(_sql,id);
+        }
         module.exports = {
             getSwiper,
             getHotnav,
@@ -121,5 +125,6 @@ var config = require('./defaultConfig');
             getRecommends,
             searchUser,
             insertUser,
-            searchNewUser
+            searchNewUser,
+            searchSessionUser
         }

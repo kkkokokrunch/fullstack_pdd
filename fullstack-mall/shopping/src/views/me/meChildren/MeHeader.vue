@@ -7,7 +7,7 @@
 			</div>
 			<div class="nick">
 				<div class="nick-wrapper" @click="toBaseInfo">
-					<p>12345678901</p>
+					<p>{{userInfo.user_name}}</p>
 					<img src="../../../assets/images/icons/mobile.png" alt="">
 				</div>
 				<div class="xzq">勋章墙 ></div>
@@ -35,8 +35,12 @@
 </template>
 
 <script>
+import {mapState} from 'vuex'
 	export default {
 		name: 'MeHeader',
+		computed: {
+      ...mapState(['userInfo'])
+    },
 		methods: {
 			toBaseInfo() {
 				this.$router.push('./baseinfo')
