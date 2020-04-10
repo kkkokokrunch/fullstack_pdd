@@ -2,7 +2,7 @@
 <div>
   <!-- <div class="login"></div> -->
   <!-- <select-login></select-login> -->
-  <div class="me" v-if="userInfo.id">
+  <div class="me" v-if="user">
       <me-header></me-header>
       <me-order></me-order>
       <grey-line></grey-line>
@@ -12,15 +12,6 @@
       <grey-line></grey-line>
   </div>
   <select-login v-else></select-login>
-   <!-- <div class="me">
-      <me-header></me-header>
-      <me-order></me-order>
-      <grey-line></grey-line>
-      <me-tips></me-tips>
-      <grey-line></grey-line>
-      <me-func></me-func>
-      <grey-line></grey-line>
-  </div> -->
 </div>
  
 </template>
@@ -43,12 +34,17 @@ export default {
       MeTips,
       MeFunc
     },
+    data() {
+      return {
+        user:''
+      }
+    },
+    created() {
+      this.user = localStorage.getItem('user')
+    },
     computed: {
-      ...mapState(['userInfo'])
-    },
-    methods: {
-      
-    },
+      ...mapState(['userInfo']),
+    }
 
 }
 </script>

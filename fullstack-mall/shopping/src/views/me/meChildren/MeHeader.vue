@@ -7,7 +7,7 @@
 			</div>
 			<div class="nick">
 				<div class="nick-wrapper" @click="toBaseInfo">
-					<p>{{userInfo.user_name}}</p>
+					<p>{{user}}</p>
 					<img src="../../../assets/images/icons/mobile.png" alt="">
 				</div>
 				<div class="xzq">勋章墙 ></div>
@@ -40,7 +40,18 @@ import {mapState} from 'vuex'
 		name: 'MeHeader',
 		computed: {
       ...mapState(['userInfo'])
-    },
+		},
+		data() {
+			return {
+				user:''
+			}
+		},
+		created() {
+			this.user = localStorage.getItem('user')
+		},
+		mounted() {
+			// console.log(userInfo.user_name)
+		},
 		methods: {
 			toBaseInfo() {
 				this.$router.push('./baseinfo')

@@ -89,5 +89,14 @@ const router = new VueRouter({
   base: process.env.BASE_URL,
   routes
 })
-
+router.beforeEach((to,from,next)=> {
+  if(to.path === '/login') {
+    return next()
+  }
+  const storage = localStorage.getItem('user')
+  if(!storage){
+    return next('./login')
+  }
+  next()
+})
 export default router

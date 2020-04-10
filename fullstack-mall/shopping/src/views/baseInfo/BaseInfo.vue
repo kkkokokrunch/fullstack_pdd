@@ -17,7 +17,7 @@
         <!-- 个性签名 -->
         <sign-popup></sign-popup>
         <!-- 多多号 -->
-        <van-cell title="昵称">{{duoId}}</van-cell>
+        <van-cell title="多多号">{{duoId}}</van-cell>
       </van-cell-group>
 
       <van-cell-group class="second-cell">
@@ -43,6 +43,9 @@ export default {
             nickname:'',
             duoId:''
         };
+    },
+    created() {
+      this.nickname = localStorage.getItem('user')
     },
     methods: {
        

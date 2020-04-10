@@ -90,7 +90,8 @@ export default {
             console.log(this.userInfo)
             // this.$router.replace('/profile')
             alert('success登陆成功')
-            window.sessionStorage.setItem('user',this.userInfo.user_name)
+            // window.sessionStorage.setItem('user',this.userInfo.user_name)
+            localStorage.setItem('user',this.userInfo.user_name)
           }else {
             this.userInfo = {
               message:'登陆失败，手机或验证码不正确'
